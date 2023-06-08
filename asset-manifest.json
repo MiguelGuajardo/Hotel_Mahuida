@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/HotelMahuida/static/css/main.03842201.css",
+    "main.js": "/HotelMahuida/static/js/main.533962bd.js",
+    "static/media/Galeria1.jpg": "/HotelMahuida/static/media/Galeria1.8b65187d99863b8219e0.jpg",
+    "static/media/Galeria2.jpg": "/HotelMahuida/static/media/Galeria2.7144112afb853bf14e2d.jpg",
+    "static/media/Galeria5.jpg": "/HotelMahuida/static/media/Galeria5.281ac75022003ceb5281.jpg",
+    "static/media/Galeria4.jpg": "/HotelMahuida/static/media/Galeria4.56b5922693a11e219819.jpg",
+    "static/media/Galeria3.jpg": "/HotelMahuida/static/media/Galeria3.32aad621dd9e1c8447f4.jpg",
+    "static/media/Galeria6.jpg": "/HotelMahuida/static/media/Galeria6.dcb7c7396e2f9d6ed7d9.jpg",
+    "static/media/Galeria14.jpg": "/HotelMahuida/static/media/Galeria14.857265c56188d3749dca.jpg",
+    "static/media/Galeria13.jpg": "/HotelMahuida/static/media/Galeria13.d3a84de85d4edce04b41.jpg",
+    "static/media/Galeria15.jpg": "/HotelMahuida/static/media/Galeria15.84939756bee6f180cda2.jpg",
+    "static/media/Galeria12.jpg": "/HotelMahuida/static/media/Galeria12.a421b6df467127fb9fe5.jpg",
+    "static/media/Galeria7.jpg": "/HotelMahuida/static/media/Galeria7.b99605e77f9ca5903131.jpg",
+    "static/media/Galeria9.jpg": "/HotelMahuida/static/media/Galeria9.8c767359d072a91f5aa2.jpg",
+    "static/media/Galeria10.jpg": "/HotelMahuida/static/media/Galeria10.dc53071ff32ac72934ab.jpg",
+    "static/media/Galeria8.jpg": "/HotelMahuida/static/media/Galeria8.7ad78cfc6d98eed17b24.jpg",
+    "static/media/Gastronomia.jpeg": "/HotelMahuida/static/media/Gastronomia.a5162514f7051bab13e1.jpeg",
+    "static/media/Galeria11.jpg": "/HotelMahuida/static/media/Galeria11.e4ad3a187eb288549486.jpg",
+    "static/media/Comida3.jpg": "/HotelMahuida/static/media/Comida3.7f6463d3538c18220bcf.jpg",
+    "static/media/Habitacion1.jpeg": "/HotelMahuida/static/media/Habitacion1.6bc86cda2abcec81814a.jpeg",
+    "static/media/Comida1.jpg": "/HotelMahuida/static/media/Comida1.8a52fe816e192c290de2.jpg",
+    "static/media/Habitacion2.jpeg": "/HotelMahuida/static/media/Habitacion2.ba8aeafea28ff0ba6cc4.jpeg",
+    "static/media/Comida5.jpg": "/HotelMahuida/static/media/Comida5.be7f83a536b9351e6a44.jpg",
+    "static/media/Comida4.jpg": "/HotelMahuida/static/media/Comida4.dfb43303930a944604f3.jpg",
+    "static/media/Comida2.jpg": "/HotelMahuida/static/media/Comida2.98dea7415126916d969a.jpg",
+    "static/media/Logo.jpg": "/HotelMahuida/static/media/Logo.49ce4f415ee78b5ccf08.jpg",
+    "static/media/Lasaña.jpg": "/HotelMahuida/static/media/Lasaña.68ffb921b11363359447.jpg",
+    "static/media/Estofado.jpg": "/HotelMahuida/static/media/Estofado.7a6fab76bcad8a825233.jpg",
+    "index.html": "/HotelMahuida/index.html",
+    "main.03842201.css.map": "/HotelMahuida/static/css/main.03842201.css.map",
+    "main.533962bd.js.map": "/HotelMahuida/static/js/main.533962bd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.03842201.css",
+    "static/js/main.533962bd.js"
+  ]
+}
