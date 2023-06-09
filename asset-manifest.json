@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/HotelMahuida/static/css/main.03842201.css",
-    "main.js": "/HotelMahuida/static/js/main.1e548f12.js",
+    "main.js": "/HotelMahuida/static/js/main.1c458dbc.js",
     "static/media/Galeria1.jpg": "/HotelMahuida/static/media/Galeria1.8b65187d99863b8219e0.jpg",
     "static/media/Galeria2.jpg": "/HotelMahuida/static/media/Galeria2.7144112afb853bf14e2d.jpg",
     "static/media/Galeria5.jpg": "/HotelMahuida/static/media/Galeria5.281ac75022003ceb5281.jpg",
@@ -30,10 +30,10 @@
     "static/media/Estofado.jpg": "/HotelMahuida/static/media/Estofado.7a6fab76bcad8a825233.jpg",
     "index.html": "/HotelMahuida/index.html",
     "main.03842201.css.map": "/HotelMahuida/static/css/main.03842201.css.map",
-    "main.1e548f12.js.map": "/HotelMahuida/static/js/main.1e548f12.js.map"
+    "main.1c458dbc.js.map": "/HotelMahuida/static/js/main.1c458dbc.js.map"
   },
   "entrypoints": [
     "static/css/main.03842201.css",
-    "static/js/main.1e548f12.js"
+    "static/js/main.1c458dbc.js"
   ]
 }
