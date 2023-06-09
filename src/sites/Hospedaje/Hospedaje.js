@@ -9,7 +9,7 @@ export const Hospedaje = () => {
     {
       id: 1,
       image: Habitacion1,
-      title: "Suite con vista al dique",
+      title: "Habitación superior",
       price: 20000,
     },
     {

@@ -20,13 +20,13 @@ export const Gastronomía = () => {
     {
       id: 2,
       image: [Comida2, Comida3, Comida4],
-      title: "Menu del día",
+      title: "Menú del día",
       price: 111111,
     },
     {
       id: 3,
       image: [Comida5, Comida6],
-      title: "Menu apto para celiacos",
+      title: "Menú apto para celiacos",
       price: 111111,
     },
     {
